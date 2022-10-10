@@ -1,5 +1,9 @@
 # BeachHackathone2022
+
+Want to live the life of a Hollywood star? with this game you get to be Will smith during the 2022 Oscars!
+#
 This game is called "The Slap", it was my submission to the BeachHacks 6.0.
+#
 The Slap won the funniest hack prize!
 https://devpost.com/software/the-slap
 

@@ -36,7 +36,7 @@ $("#startreset").click(function(){
         //change button text to reset game
         $("#startreset").html("Reset Game");
 
-        //start sending fruits
+        //start sending pictures
         startAction();
     }
 });
